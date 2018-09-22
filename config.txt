@@ -1,5 +1,5 @@
 token=NDkzMTI4OTk5NTEwMzQzNjgw.DogeUg.MjhTO6Dc67_5psohatNVPO6kesc
 owner=466858375544832001 
 prefix=su
-game=su
+game=suplay
 stayinchannel=true
